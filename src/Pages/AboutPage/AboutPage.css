@@ -1,0 +1,11 @@
+#about-page {
+    background-color: #f3f3f3;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+    margin: 20px auto;
+    color: #333;
+    text-align: left;
+    line-height: 1.6;
+    font-size: 1.1em;
+}

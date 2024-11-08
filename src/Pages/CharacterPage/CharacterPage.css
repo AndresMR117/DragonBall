@@ -1,0 +1,20 @@
+#character-page{
+    background-image: url("https://i.redd.it/dragon-ball-solarpunk-v0-33ktedfn6yoc1.jpg?width=1920&format=pjpg&auto=webp&s=1e3a0ec2906cf098df87a383f552a6ce6adccecc");
+    width: 100%;
+    height: 100%;
+    color: red;    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#title-character{
+    margin: 50px;    
+}
+
+#characters-species{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
